@@ -1,2 +1,2 @@
 # teste-aprendizado
-Atividades no curso full stack
+Atividades do curso full stack
